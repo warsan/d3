@@ -15,8 +15,6 @@ D3 сочетает в себе мощные методы визуализаци
 
 ## Установка
 
-If you use npm, `npm install d3`. Otherwise, download the [latest release](https://github.com/d3/d3/releases/latest). The released bundle supports anonymous AMD, CommonJS, and vanilla environments. You can load directly from [d3js.org](https://d3js.org), [CDNJS](https://cdnjs.com/libraries/d3), or [unpkg](https://unpkg.com/d3/). For example:
-
 Если вы используете npm, `npm install d3`. В противном случае загрузите [последнюю версию](https://github.com/d3/d3/releases/latest).    
 Выпущенный пакет поддерживает анонимные среды AMD, CommonJS и vanilla.    
 Вы можете загрузить напрямую из [d3js.org](https://d3js.org), [CDNJS](https://cdnjs.com/libraries/d3), или [unpkg](https://unpkg.com/d3/). Например:
